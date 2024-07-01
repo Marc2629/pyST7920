@@ -19,3 +19,6 @@ s.clear()
 s.put_text("Hello world!", 5, 10)
 s.redraw()
 ```
+
+## Example wiring instructions
+https://medium.com/@marcj_40686/raspberry-pi-and-st7920-lcd-displaying-text-and-more-51e2c7eb04df
